@@ -3,8 +3,8 @@ MotivasyonM
 Yon aplikasyon pou jwenn panse pozitif kap ede w mantalman.
 
 Manm Ekip la : 
-Belzir Jean Marc
-Gracou Mora
+Belzir Jean Marc,
+Gracou Mora,
 Valmond Valmise
 
 Deskripsyon Aplikasyon an: Lavi chak jou kapab estrèsan ak anpil defi.MotivasyonM se yon aplikasyon ki vize ede moun kenbe yon mantalite pozitif ak yon lespri fèm. L ap ofri ou koleksyon panse enspiran, sitasyon motivasyon, ak aktivite pou ranfòse pozitivite chak jou. Aplikasyon an ap pèmèt itilizatè yo kòmanse jounen yo ak yon nòt pozitif epi kenbe motivasyon yo toutan.
