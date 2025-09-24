@@ -25,7 +25,14 @@ Petèt (Maybe):
 · Itilizatè a ka patage yon sitasyon motivasyon sou platfòm sosyal oswa nan yon mesaj.
 
 Ta bon pou gen (Would be nice to have):
-   
-· Itilizatè a ka mete objektif pèsonèl epi resevwa ankourajman ki personnalize.     
+
+· Itilizatè a ka mete objektif pèsonèl epi resevwa ankourajman ki personnalize.
 · Itilizatè a ka koute yon podkast oswa yon ti son meditasyon nan aplikasyon an.
 · Itilizatè a ka wè estatistik ki montre konbyen fwa li te ouvri aplikasyon an ak ki jan pozitivite l ap pwogrese
+
+<img width="648" height="430" alt="image" src="https://github.com/user-attachments/assets/9ca08373-2db3-4148-ba09-0cf5ad909be1" />
+
+
+
+DESIGN:
+ 
