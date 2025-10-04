@@ -1,5 +1,7 @@
 # MotivasyonM
 
+lien figma:https://raw.githubusercontent.com/belzirjeanmarc-wq/MotivasyonM/7227a84ba898ea88c1fac0c05a62919ecd808f10/Motivasyonm%20projet%20final.gif
+
 Yon aplikasyon pou jwenn panse pozitif kap ede w mantalman.
 
  ## Manm Ekip la : 
